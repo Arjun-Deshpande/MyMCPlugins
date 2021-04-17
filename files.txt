@@ -3,3 +3,5 @@ Here are the files that were to big for me to upload these will be in the form o
 particle trail: https://www.mediafire.com/file/dm3mhjpga9lkw3c/particleTrailPlugin.zip/file
 
 Staff Chat: https://www.mediafire.com/file/0x9gfkoh9n89r07/SCPlugin.zip/file
+
+Rank Plugin: 
