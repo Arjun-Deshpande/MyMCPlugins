@@ -4,4 +4,4 @@ particle trail: https://www.mediafire.com/file/dm3mhjpga9lkw3c/particleTrailPlug
 
 Staff Chat: https://www.mediafire.com/file/0x9gfkoh9n89r07/SCPlugin.zip/file
 
-Rank Plugin: 
+Rank Plugin: https://www.mediafire.com/file/61vnd5n0e3o9af7/rankPlugin.zip/file
